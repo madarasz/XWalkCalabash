@@ -7,3 +7,6 @@ $ gradle build
 $ calabash-android resign app/build/outputs/apk/app-debug.apk
 $ calabash-android run app/build/outputs/apk/app-debug.apk
 ```
+
+### Prebuilt app
+You can find a prebuilt app *app-debug.apk* at the project root.
